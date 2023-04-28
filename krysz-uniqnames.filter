@@ -6,8 +6,8 @@ ItemDisplay[aqv MAG !ID ((!AMAZON AND FILTLVL>1 AND CLVL>79) OR FILTLVL>2)]: // 
 
 
 // Individual Names for Unidentified Unique Items
-ItemDisplay[!jew !rin !amu  UNI !ID ETH]:	%CONTINUE%
-ItemDisplay[!jew !rin !amu !cm1 !cm2 !cm3 UNI !ID !ETH]:	%CONTINUE%
+ItemDisplay[UNI !ID ETH (ARMOR OR WEAPON)]:	%CONTINUE%
+ItemDisplay[UNI !ID !ETH (ARMOR OR WEAPON)]:	%CONTINUE%
 // ... Shared Bases
 //ItemDisplay[jew UNI !ID]: %BORDER-68%%RED%r%ORANGE%a%YELLOW%in%GREEN%b%BLUE%o%PURPLE%w     %GOLD%Jewel%PURPLE%     r%BLUE%a%GREEN%in%YELLOW%b%ORANGE%o%RED%w
 ItemDisplay[UNI !ID uhm ILVL>76]:	%NAME%%GOLD%Spired Helm - Veil of Steel / Nightwing's Veil%CONTINUE%		// 
