@@ -1,3 +1,11 @@
+This is a fork of Kryszard loot filter which adds in the unique names of the bases. 
+It is updated manually by me if Krysz drops an update, I will update this as soon as possible. 
+
+To add this in, go to your PD2 folder and then filters --> Local. Save the .filter file here. Then on the launcher go to item filters and select local and select the one you just added. 
+
+![image](https://user-images.githubusercontent.com/25261174/235166806-538eb480-f8db-4282-a9f6-dc35804b1ab7.png)
+
+
 # Kryszard's PD2 Loot-Filter
 **Hello PD2 Fans!**
 
